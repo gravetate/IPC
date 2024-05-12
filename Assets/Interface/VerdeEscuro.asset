@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d21f6ece3b46479f0c328f8c6007e0, type: 3}
+  m_Name: VerdeEscuro
+  m_EditorClassIdentifier: 
+  colorMode: 3
+  topLeft: {r: 0.5949849, g: 0.8820755, b: 0.86348855, a: 1}
+  topRight: {r: 0.8244927, g: 0.9056604, b: 0.90010095, a: 1}
+  bottomLeft: {r: 0.63923997, g: 0.7971698, b: 0.7863527, a: 1}
+  bottomRight: {r: 0.83739763, g: 0.9150943, b: 0.90977263, a: 1}
